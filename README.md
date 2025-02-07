@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,bootstrap,git,github,vscode" />
 </p>
----
+
 
 ## 🚀 Portfolio  
 <p align="center">
